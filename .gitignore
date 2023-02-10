@@ -1,0 +1,10 @@
+node_modules
+.exercism
+go.mod
+.clj-kondo
+.cpcache
+.lsp
+target
+.vscode
+.calva
+*.edn
