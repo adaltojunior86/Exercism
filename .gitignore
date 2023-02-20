@@ -8,3 +8,4 @@ target
 .vscode
 .calva
 *.edn
+.lein-failures
